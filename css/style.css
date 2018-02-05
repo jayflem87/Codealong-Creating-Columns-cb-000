@@ -106,5 +106,6 @@ figcaption {
   content: ".";
   display: block;
   clear: both;
-  visibility: hidden
+  visibility: hidden;
+  height; 0px;
 }
